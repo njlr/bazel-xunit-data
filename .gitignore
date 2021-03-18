@@ -1,0 +1,11 @@
+bin/
+obj/
+.ionide/
+bazel-bazel-xunit-test-data
+bazel-bin
+bazel-out
+bazel-testlogs
+fparsec
+package
+fparsec.zip
+packages
